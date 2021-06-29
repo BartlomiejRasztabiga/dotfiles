@@ -83,7 +83,6 @@ plugins=(
   zsh-autosuggestions
   zsh-syntax-highlighting
 )
-ZSH_DISABLE_COMPFIX=true
 
 source $ZSH/oh-my-zsh.sh
 
